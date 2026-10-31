@@ -1,0 +1,1 @@
+Tuve que configurar la política de buckets (en permisos, usando un JSON) para que mi bucket sea público. Esto a pesar de que en la creación de bucket yo ya había puesto que queria uno público. Luego corroboré que el punto de enlace del sitio web del bucket ya funcionaba. 
